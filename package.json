@@ -11,5 +11,6 @@
     "assert"
   ],
   "author": "Samuel Giles",
-  "license": "MIT"
+  "license": "MIT",
+  "version": "1.0.0"
 }
