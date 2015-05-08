@@ -21,7 +21,7 @@ function testOptimisationStatus(fn, args, thisArg) {
 
 function printOptimisationStatus(functionName, status) {
     switch(status) {
-		case Optical.OPTIMISED: console.log("Function ", functionName, " is optimized"); break;
+	case Optical.OPTIMISED: console.log("Function ", functionName, " is optimized"); break;
         case Optical.NOT_OPTIMISED: console.log("Function ", functionName, " is not optimized"); break;
         case Optical.ALWAYS_OPTIMISED: console.log("Function  ", functionName, " is always optimized"); break;
         case Optical.NEVER_OPTIMISED: console.log("Function  ", functionName, " is never optimized"); break;
