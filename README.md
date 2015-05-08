@@ -11,7 +11,7 @@ flag. See caveats.
 
 Prints the optimisation status of a function applied to the given arguments.
 
-### `assertOptimized(func, args, thisArg)`
+### `optical.assertOptimized(func, args, thisArg)`
 
 Assert the optimisation status of a function applied to some arguments.  Will
 throw an assertion error if the function is not optimised or will lkely be
