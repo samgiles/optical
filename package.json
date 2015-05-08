@@ -1,0 +1,15 @@
+{
+  "name": "optical",
+  "description": "Assert the optimisation status of a function in v8 given some arguments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "optimisations",
+    "v8",
+    "assert"
+  ],
+  "author": "Samuel Giles",
+  "license": "MIT"
+}
